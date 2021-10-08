@@ -1,0 +1,15 @@
+Green:
+Top:#74cb4e
+Buttom:#34fb34
+
+Red:
+Top:#f66262
+Buttom:#f4bebe
+
+Grey:
+Top:#cccccc
+Buttom:#ffffff
+
+Orange:
+top:#f1c232
+buttom:#f5e5a1
